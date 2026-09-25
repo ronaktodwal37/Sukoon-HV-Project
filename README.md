@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-**Sukoon** is an  mental wellness and therapy platform designed to help people reduce stress, anxiety, and depression through multiple therapy modules. The platform provides a calm, user-friendly digital space where users can explore different therapy techniques such as audio therapy, reading therapy, yoga therapy, laughing therapy, and professional consultation.
+**Sukoon** is an online mental wellness and therapy platform designed to help people reduce stress, anxiety, and depression through multiple therapy modules. The platform provides a calm, user-friendly digital space where users can explore different therapy techniques such as audio therapy, reading therapy, yoga therapy, laughing therapy, and professional consultation.
 
 The goal of Sukoon is to **normalize mental health care** and make therapy **accessible, affordable, and easy to use** for everyone.
 
